@@ -13,3 +13,4 @@ lxml
 langchain_huggingface
 langchain-groq
 langgraph
+langgraph-cli[inmem]

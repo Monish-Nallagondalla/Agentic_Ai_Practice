@@ -1,0 +1,7 @@
+{
+    "dependencies":["."],
+    "graphs":{
+        "llama_agent":"./llama_agent.py:agent"
+    }
+    , "evn":"../.env"
+}
